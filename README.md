@@ -28,16 +28,19 @@ PixShop is a very easy and simple E-Commerce application with dynamic frontend a
 - **Extensions Included**: Google Analytics, Livechat, Security Captcha, and more.
 
 ## Screenshots
-
-  
-
-## Documentation
-
-For detailed documentation, please refer to the [docs](docs) directory.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-001.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-002.jpg  
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-003.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-004.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-005.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-006.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-007.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-008.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-009.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-010.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-011.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-012.jpg
+https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-013.jpg
 
 ## Contact
 
