@@ -1,6 +1,4 @@
-# PixShop E-Commerce Application
-
-![PixShop Logo](https://example.com/logo.png)  <!-- Replace with actual logo URL -->
+# PixShop E-Commerce Application)
 
 PixShop is a very easy and simple E-Commerce application with dynamic frontend and backend features. The site is clean and easy to use, providing a seamless experience for both customers and administrators. With PixShop, your website will focus on what you're selling rather than flashy distractions, making it a world-beater in the E-Commerce space.
 
@@ -26,6 +24,8 @@ PixShop is a very easy and simple E-Commerce application with dynamic frontend a
 - **Cross-Browser Compatibility**: Supports modern browsers and ensures cross-browser compatibility.
 - **Easy Page Builder and GDPR Compliance**: Build pages easily and comply with GDPR regulations.
 - **Extensions Included**: Google Analytics, Livechat, Security Captcha, and more.
+
+- contact me on telegram to buy @Codecraftmens
 
 ## Screenshots
 https://github.com/Adnan-pron/pixshop-ecommerce/blob/main/thumb-001.jpg
